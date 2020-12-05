@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TimeSheet</string>
+    <string name="landing">Hello Rangers!</string>
+    <string name="userName">Felhasználó</string>
+    <string name="login">Belépés</string>
+    <string name="psw">Jelszó</string>
+    <string name="timeLeft">Ledolgozandó munkaidő:</string>
+    <string name="chargedTime">Elszámolt idő:</string>
+    <string name="workTime">Ledolgozott idő:</string>
+    <string name="tp">TP</string>
+    <string name="_3x">3x</string>
+    <string name="_2x">2x</string>
+    <string name="fsz">FSZ</string>
+    <string name="pn">PN</string>
+</resources>
